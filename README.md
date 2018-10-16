@@ -1,5 +1,5 @@
 // ****************************************************************************
-ffjpeg
+ffjpeg jpeg encode, decode and example
 The open source library from https://github.com/rockcarry/ffjpeg
 The Makefile was modified by Patrick Lin to fit sama5d2 environment in Linux
 // ****************************************************************************
